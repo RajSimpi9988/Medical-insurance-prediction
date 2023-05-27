@@ -1,5 +1,5 @@
 # Medical-insurance-prediction
-o predict medical insurance costs based on factor such as age , gender , BMI etc.
+Predict medical insurance costs based on factor such as age , gender , BMI etc.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raj_simpi2002) 
